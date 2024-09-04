@@ -74,7 +74,7 @@ def open_image():
 
 # Function to open the Discord server URL
 def open_discord():
-    url = "https://discord.gg/yourserver"  # Replace with your Discord server invite URL
+    url = "https://discord.gg/TGTaXgA2yr"  # Replace with your Discord server invite URL
     webbrowser.open(url)
 
 # Game loop
